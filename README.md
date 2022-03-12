@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandgiri1999
-- 👀 I’m interested in ...java
+- 👀 I’m interested in .Net
 - 🌱 I’m currently learning ...core java,j2ee
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
